@@ -32,7 +32,7 @@ st.markdown("""
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
 * { font-family: 'Poppins', sans-serif; }
 .stApp {
-    background-image: url('https://i.postimg.cc/TYhXd0gG/d0a72a8cea5ae4978b21e04a74f0b0ee.jpg');
+    background-image: url('https://i.postimg.cc/x8SCh4hS/746f250ae803446580259af96cb03f94.jpg');
     background-size: cover; background-position: center; background-attachment: fixed;
 }
 .main .block-container {
